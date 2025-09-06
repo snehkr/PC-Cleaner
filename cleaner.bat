@@ -133,7 +133,7 @@ nbtstat -R
 nbtstat -RR
 netsh int ip reset
 netsh winsock reset
-echo DNS & Network cache cleared. A restart is recommended for full effect.
+echo DNS ^& Network cache cleared. A restart is recommended for full effect.
 pause
 goto MENU
 
